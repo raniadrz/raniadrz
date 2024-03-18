@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raniadrz
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React Native and Node.js
+- 👀 I’m interested in Software Development!!
 - 📫 How to reach me : drizirania@gmail.com
 
 <!---
